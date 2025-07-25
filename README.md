@@ -26,9 +26,8 @@ Features
 
 
 Preview
+![Website Preview](PortfolioWebsite.jpg)
 
-
-> 💡 _Tip: Replace this with an actual screenshot of your site once it's live or running in Replit._
 
 
 You can run this project online using:
